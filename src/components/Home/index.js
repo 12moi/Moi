@@ -3,6 +3,7 @@ import { useEffect } from 'react'
 import { useState } from 'react'
 import LogoTitle from '../../assets/images/logo-s.png'
 import AnimatedLetters from '../AnimatedLetters'
+import Logo from './Logo'
 import './index.scss'
 const Home =()=> {
    const [letterClass, setletterClass]=useState('text-animate')
@@ -38,6 +39,7 @@ const Home =()=> {
             <button to="/container" className="flat-button" >CONTACT ME</button>
             
          </div>
+         <Logo />
         </div>
     )
 
