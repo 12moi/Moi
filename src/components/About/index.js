@@ -39,7 +39,7 @@ const About = () => {
           </p>
           <p align="LEFT">
             I'm quiet confident, naturally curious, and perpetually working on
-            improving my chops one design problem at a time.
+            improving my skillset with one design problem at a time.
           </p>
           <p>
             If I need to define myself in one sentence that would be a family
