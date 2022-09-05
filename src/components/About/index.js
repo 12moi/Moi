@@ -42,9 +42,9 @@ const About = () => {
             improving my skillset with one design problem at a time.
           </p>
           <p>
-            If I need to define myself in one sentence that would be a family
-            person, father of a beautiful daughter, a sports fanatic,
-            photography enthusiast, and tech-obsessed!!!
+          I am a tech-driven individual, responsible, and committed software engineer,
+           with an a-get-it-done, on-time and high-quality product spirit to implement and 
+           deliver a front end and amazing web applications using different programming languages and technologies.
           </p>
         </div>
 
