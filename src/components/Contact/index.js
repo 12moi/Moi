@@ -85,14 +85,14 @@ const Contact = () => {
           </div>
         </div>
         <div className="info-map">
-          Slobodan Gajić,
+          Moi Shadrack,
           <br />
-          Serbia,
+          Kenya,
           <br />
-          Branka RadiČevića 19, 22000 <br />
-          Sremska Mitrovica <br />
+          Nairobi 19, 22000 <br />
+          Nairobi <br />
           <br />
-          <span>freelancerslobodan@gmail.com</span>
+          <span>moishadrack@gmail.com</span>
         </div>
         <div className="map-wrap">
           <MapContainer center={[44.96366, 19.61045]} zoom={13}>
