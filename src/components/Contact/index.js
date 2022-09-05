@@ -20,7 +20,7 @@ const Contact = () => {
     e.preventDefault()
 
     emailjs
-      .sendForm('gmail', 'template_YeJhZkgb', form.current, 'your-token')
+      .sendForm('service_vj9w8b9', 'template_gl1cfqb', form.current, 'llt8xd5VV0kMCfTju')
       .then(
         () => {
           alert('Message successfully sent!')
@@ -89,7 +89,7 @@ const Contact = () => {
           <br />
           Kenya,
           <br />
-          Nairobi 19, 22000 <br />
+          Nairobi, Nairobi<br />
           Nairobi <br />
           <br />
           <span>moishadrack@gmail.com</span>
