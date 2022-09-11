@@ -87,10 +87,10 @@ const Contact = () => {
         <div className="info-map">
           Moi Shadrack,
           <br />
-          Kenya,
+          Ngong Lane,
           <br />
-          Nairobi, Nairobi<br />
-          Nairobi <br />
+          Nairobi<br />
+          Kenya. <br />
           <br />
           <span>moishadrack@gmail.com</span>
         </div>
